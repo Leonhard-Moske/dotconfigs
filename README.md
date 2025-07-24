@@ -5,4 +5,4 @@ repo for saving my dotfiles
 ## Setup
 
 execute 
-`stow .`
+`stow config_files`
